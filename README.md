@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Coloca aquí tu banner personalizado cuando lo generemos -->
-  <!-- <img src="[BANNER_AQUI](https://media.licdn.com/dms/image/v2/C4E16AQEXv61bAQ-BWA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650641129525?e=1765411200&v=beta&t=O86ggO6cflbL-wIZdGfT21heUKjXKnDCdQ0fP8-Dkn8)" width="100%" /> -->
+  <!-- <img src="https://media.licdn.com/dms/image/v2/C4E16AQEXv61bAQ-BWA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650641129525?e=1765411200&v=beta&t=O86ggO6cflbL-wIZdGfT21heUKjXKnDCdQ0fP8-Dkn8" width="100%" /> -->
 </p>
 
 ---
