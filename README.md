@@ -1,34 +1,98 @@
 <h1 align="center">👋 Hola, soy Ismael Sanromán</h1>
-<h3 align="center">Senior SDET | Test Automation | Quality Engineering</h3>
+<h3 align="center">Senior SDET | Test Automation | Quality Engineering | AI Systems Testing | CI/CD</h3>
 
 <p align="center">
-  <!-- Sustituye esta imagen por tu banner personalizado -->
-  <img src="https://media.licdn.com/dms/image/v2/C4E16AQEXv61bAQ-BWA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650641129525?e=1765411200&v=beta&t=O86ggO6cflbL-wIZdGfT21heUKjXKnDCdQ0fP8-Dkn8" width="100%" />
+  <!-- Coloca aquí tu banner personalizado cuando lo generemos -->
+  <!-- <img src="[BANNER_AQUI](https://media.licdn.com/dms/image/v2/C4E16AQEXv61bAQ-BWA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650641129525?e=1765411200&v=beta&t=O86ggO6cflbL-wIZdGfT21heUKjXKnDCdQ0fP8-Dkn8)" width="100%" /> -->
 </p>
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🧪 QA Automation
+### 🧪 Test Automation
 <p>
-  <img src="https://img.shields.io/badge/Playwright-2e2e2e?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-2e2e2e?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-2e2e2e?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-2e2e2e?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rest_Assured-2e2e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Playwright-242424?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-242424?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-242424?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rest_Assured-242424?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-242424?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-2e2e2e?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-2e2e2e?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-2e2e2e?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-2e2e2e?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-242424?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-242424?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-242424?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-242424?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ### ⚙️ DevOps & CI/CD
 <p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2e2e2e?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge
-  
+  <img src="https://img.shields.io/badge/GitHub_Actions-242424?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-242424?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-242424?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-242424?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-242424?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
+### 🧠 AI & ML Testing
+<p>
+  <img src="https://img.shields.io/badge/LLM_Testing-242424?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SLM_Validation-242424?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-242424?style=for-the-badge&logo=mlflow&logoColor=white" />
+</p>
+
+---
+
+## 🧩 Perfil Profesional
+
+Senior SDET con experiencia en **automatización, calidad de software, CI/CD, testing backend, APIs, UI y validación de sistemas basados en IA**.  
+Especializado en construir frameworks escalables, pipelines de calidad y estrategias robustas de test para productos críticos en sectores bancarios y telecomunicaciones.
+
+He colaborado en equipos multidisciplinares en proyectos para:
+
+- **Banco Santander** (AI Systems Testing, ML Validation, LLM/SLM Evaluation)  
+- **Telefónica** (Automatización frontend & backend, Jenkins pipelines)  
+- **UST / Minsait / Sngular** (QA Automation, Performance, CI/CD, arquitectura de testing)
+
+En AI Testing, experiencia en:
+
+- Validación de modelos (LLMs/SLMs)  
+- Estrategias de calidad para sistemas generativos  
+- Evaluación automática de respuestas  
+- Automatización de pipelines de verificación de IA  
+- MLOps aplicado a QA  
+
+Mi enfoque principal es aportar **estabilidad, eficiencia y calidad** a los equipos de desarrollo mediante ingeniería sólida.
+
+---
+
+## 🎓 Certificaciones Relevantes
+
+### 👨‍💻 Técnicas
+- **Playwright Automation (Python)** – Udemy  
+- **CI/CD for Testers: Jenkins & GitHub Actions** – Udemy  
+- **Selenium + Java + Cucumber** – Udemy  
+- **Cypress E2E Automation** – Udemy  
+- **AWS Solutions Architect Associate (Training)** – Udemy  
+
+### 🤖 Inteligencia Artificial
+- **Bootcamp IA Generativa, LLM Apps & Agentes IA** – Aceleradora AI  
+- **Curso de Desarrollo con IA** – BIG School  
+
+### 🔐 Seguridad & QA Avanzada
+- **Cybersecurity Awareness Certification** – CertiProf  
+- **ISTQB CTFL (Testing Foundation)**  
+
+### 👥 Agile & Gestión
+- **Professional Scrum Master (SFPC)** – CertiProf  
+- **Business Model Canvas Essentials (BMCEPC)** – CertiProf  
+- **International Diploma in Business Analysis (BIFPC)** – CertiProf  
+
+---
+
+## 📫 Contacto
+
+- **LinkedIn:** https://www.linkedin.com/in/ismael-sanroman-sanchez/  
+- **GitHub:** https://github.com/ismaelsanroman  
