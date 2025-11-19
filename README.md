@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/Flask-242424?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-242424?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-242424?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAPI-242424?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
 </p>
 
 ### 🧩 Mocking & Testing Utilities
@@ -54,7 +53,6 @@
   <img src="https://img.shields.io/badge/GitLab_CI-242424?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-242424?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-242424?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-242424?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-242424?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
@@ -98,27 +96,27 @@ Mi enfoque principal es aportar **estabilidad, eficiencia y calidad** a los equi
 
 ---
 
-## 🎓 Certificaciones Relevantes
+## 🎓 Cursos y certificaciones destacadas
 
 ### 👨‍💻 Técnicas
-- **Playwright Automation (Python)** – Udemy  
-- **CI/CD for Testers: Jenkins & GitHub Actions** – Udemy  
-- **Selenium + Java + Cucumber** – Udemy  
-- **Cypress E2E Automation** – Udemy  
-- **AWS Solutions Architect Associate (Training)** – Udemy  
+- **Playwright Automation (Python)**
+- **CI/CD for Testers: Jenkins & GitHub Actions**
+- **Selenium + Java + Cucumber** 
+- **Cypress E2E Automation** 
+- **AWS Solutions Architect Associate (Training)**
 
 ### 🤖 Inteligencia Artificial
-- **Bootcamp IA Generativa, LLM Apps & Agentes IA** – Aceleradora AI  
-- **Curso de Desarrollo con IA** – BIG School  
+- **Bootcamp IA Generativa, LLM Apps & Agentes IA**
+- **Curso de Desarrollo con IA**
 
 ### 🔐 Seguridad & QA Avanzada
-- **Cybersecurity Awareness Certification** – CertiProf  
+- **Cybersecurity Awareness Certification**
 - **ISTQB CTFL (Testing Foundation)**  
 
 ### 👥 Agile & Gestión
-- **Professional Scrum Master (SFPC)** – CertiProf  
-- **Business Model Canvas Essentials (BMCEPC)** – CertiProf  
-- **International Diploma in Business Analysis (BIFPC)** – CertiProf  
+- **Professional Scrum Master (SFPC)**
+- **Business Model Canvas Essentials (BMCEPC)**
+- **International Diploma in Business Analysis (BIFPC)**
 
 ---
 
