@@ -15,23 +15,53 @@
   <img src="https://img.shields.io/badge/Selenium-242424?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-242424?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Rest_Assured-242424?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Toolium-242424?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Talos_BDD-242424?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Postman-242424?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Newman-242424?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Xray-242424?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JMeter-242424?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Locust-242424?style=for-the-badge" />
 </p>
 
-### 💻 Languages
+### 💻 Languages & Backend Testing
 <p>
   <img src="https://img.shields.io/badge/Python-242424?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-242424?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-242424?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-242424?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-242424?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Requests-242424?style=for-the-badge" />
 </p>
 
-### ⚙️ DevOps & CI/CD
+### 🧰 Frameworks & API Development
+<p>
+  <img src="https://img.shields.io/badge/Flask-242424?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-242424?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-242424?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAPI-242424?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+</p>
+
+### 🧩 Mocking & Testing Utilities
+<p>
+  <img src="https://img.shields.io/badge/Mockito-242424?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/unittest.mock-242424?style=for-the-badge" />
+</p>
+
+### ⚙️ DevOps, CI/CD & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-242424?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-242424?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI-242424?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-242424?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-242424?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-242424?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-242424?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+### 📊 Monitoring, Logs & Observability
+<p>
+  <img src="https://img.shields.io/badge/Grafana-242424?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-242424?style=for-the-badge&logo=kibana&logoColor=white" />
 </p>
 
 ### 🧠 AI & ML Testing
@@ -39,7 +69,9 @@
   <img src="https://img.shields.io/badge/LLM_Testing-242424?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SLM_Validation-242424?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MLOps-242424?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-242424?style=for-the-badge" />
 </p>
+
 
 ---
 
