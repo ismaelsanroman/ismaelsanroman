@@ -122,5 +122,6 @@ Mi enfoque principal es aportar **estabilidad, eficiencia y calidad** a los equi
 
 ## 📫 Contacto
 
-- **LinkedIn:** https://www.linkedin.com/in/ismael-sanroman-sanchez/  
-- **GitHub:** https://github.com/ismaelsanroman  
+- **LinkedIn:** https://www.linkedin.com/in/ismael-sanroman-sanchez
+- **GitHub:** https://github.com/ismaelsanroman
+- **Web persona:** https://ismaelsanroman.github.io/personal-site-ismael-sanroman
